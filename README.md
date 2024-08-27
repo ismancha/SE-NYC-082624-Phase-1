@@ -1,4 +1,4 @@
-# Lecture # 1 - JavaScript Fundamentals
+git z# Lecture # 1 - JavaScript Fundamentals
 
 ## Lecture Topics
 - Define what a variable is
